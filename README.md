@@ -1,6 +1,24 @@
 # Pharmaceutical-sales-analytics-dashboard-using-power-BI
 This project focuses on analyzing pharmaceutical sales data using Tableau. The dashboard provides a detailed view of sales trends, product performance, and regional insights to support data-driven decision-making in the pharmaceutical industry
 
+# Project Structure
+|– data/
+|   |– salesdaily.csv
+|   |– saleshourly.csv
+|   |– salesmonthly.csv
+|   |– salesweekly.csv
+|
+|– dashboards/
+|   |– Pharmaceutical_Sales_Analysis_Dashboard.pbix
+|   |– Dashboard_snapshot
+|
+|– reports/
+|   |– Pharma_Sales_Analysis_Report.pdf
+|   |– BRD.pdf
+|   |– FRD.pdf
+|
+|– README.md
+
 # Objective
 Analyze pharmaceutical sales data and identify trends
 Design an interactive Power BI dashboard highlighting:
@@ -19,7 +37,7 @@ Design an interactive Power BI dashboard highlighting:
 
 
 ## Dashboard Highlights
-1. Total Sales KPIs with drill-down from monthly to hourly trends
+1. Year Sales by Drug Category.
 2. Top Products/Drugs by revenue
 3. Sales Growth Analysis (YoY, WoW, MoM comparisons)
 4. Regional/Market-Level Performance
