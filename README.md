@@ -9,10 +9,12 @@ Design an interactive Power BI dashboard highlighting:
  Top products/drugs by revenue
  Growth patterns for business planning
  
-# Tools & Technologies
-Power BI → Dashboard design & visualization
-Excel/CSV → Data storage and structure
-DAX (Data Analysis Expressions) → Measures and calculated fields
+## Tools & Technologies
+1. Power BI → Dashboard design & visualization
+2. Excel/CSV → Data storage and structure
+3. DAX (Data Analysis Expressions) → Measures and calculated fields
+
+
 
 # Dashboard Highlights
 Total Sales KPIs with drill-down from monthly to hourly trends
