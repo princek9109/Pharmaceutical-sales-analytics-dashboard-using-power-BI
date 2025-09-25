@@ -8,6 +8,8 @@ Design an interactive Power BI dashboard highlighting:
  Time-based trends (daily, weekly, monthly, hourly)
  Top products/drugs by revenue
  Growth patterns for business planning
+ <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/219ccc40-235f-4952-ab9e-478b93de0125" />
+
  
 ## Tools & Technologies
 1. Power BI → Dashboard design & visualization
