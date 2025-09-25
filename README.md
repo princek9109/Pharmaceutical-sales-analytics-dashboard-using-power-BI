@@ -4,30 +4,31 @@ This project focuses on analyzing pharmaceutical sales data using Tableau. The d
 # Objective
 Analyze pharmaceutical sales data and identify trends
 Design an interactive Power BI dashboard highlighting:
+##
  Overall sales performance
  Time-based trends (daily, weekly, monthly, hourly)
  Top products/drugs by revenue
  Growth patterns for business planning
  
-# Tools & Technologies
+## Tools & Technologies
 Power BI → Dashboard design & visualization
 Excel/CSV → Data storage and structure
 DAX (Data Analysis Expressions) → Measures and calculated fields
 
-# Dashboard Highlights
+## Dashboard Highlights
 Total Sales KPIs with drill-down from monthly to hourly trends
 Top Products/Drugs by revenue
 Sales Growth Analysis (YoY, WoW, MoM comparisons)
 Regional/Market-Level Performance
 Interactive filters and slicers for flexible analysis
 
-# Deliverables
+## Deliverables
 Business Requirement Document (BRD)
 Functional Requirement Document (FRD)
 Executive Summary & Full Project Report
 Power BI Dashboard Snapshot
 
-# Outcomes
+## Outcomes
 Identified peak sales periods across different timescales
 Highlighted top-performing products driving revenue
 Provided actionable insights for sales optimization & inventory planning
